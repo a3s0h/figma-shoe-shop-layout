@@ -1,0 +1,300 @@
+.adidas,
+.b {
+  position: absolute;
+  left: -48px;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.adidas {
+  top: 0;
+  font-size: 42px;
+  font-weight: 900;
+  width: 165px;
+  height: 71px;
+}
+.b {
+  top: 62px;
+  font-size: 27px;
+  font-family: var(--font-poppins);
+  width: 111px;
+  height: 39px;
+}
+.colors-child,
+.colors-item {
+  top: 0;
+  border-radius: var(--br-8xs);
+  width: 44.11px;
+}
+.colors-child {
+  position: absolute;
+  left: 0;
+  background-color: var(--color-maroon);
+  height: 48.45px;
+}
+.colors-item {
+  left: 110.28px;
+  background-color: #9a99b3;
+}
+.colors,
+.colors-inner,
+.colors-item {
+  position: absolute;
+  height: 48.45px;
+}
+.colors-inner {
+  top: 0;
+  left: 220.56px;
+  border-radius: var(--br-8xs);
+  background-color: #000b1d;
+  width: 44.11px;
+}
+.colors {
+  top: 128px;
+  left: -49px;
+  width: 264.68px;
+}
+.free-delivery-all {
+  position: absolute;
+  top: 436px;
+  left: -2px;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-weight: 900;
+  color: var(--color-dimgray-100);
+  display: inline-block;
+  width: 214px;
+  height: 16px;
+}
+.sizes-child {
+  position: absolute;
+  top: 21.5px;
+  left: 44.5px;
+  width: 3px;
+  height: 15px;
+}
+.div,
+.sizes,
+.this-is-it {
+  position: absolute;
+  width: 487px;
+}
+.div {
+  top: 0;
+  left: 0;
+  text-transform: lowercase;
+  font-weight: 900;
+  display: inline-block;
+  height: 92px;
+}
+.sizes,
+.this-is-it {
+  left: -48px;
+}
+.sizes {
+  top: 343px;
+  height: 92px;
+  color: #525050;
+}
+.this-is-it {
+  top: 229px;
+  text-transform: lowercase;
+  font-weight: 900;
+  color: var(--color-dimgray-100);
+  display: inline-block;
+  height: 122px;
+}
+.addtocart-child,
+.addtocart-item {
+  position: absolute;
+  width: 219.19px;
+  height: 37.85px;
+}
+.addtocart-child {
+  top: 0;
+  left: 0;
+  background-color: var(--color-maroon);
+}
+.addtocart-item {
+  top: 4.54px;
+  left: 5.51px;
+  border: 1px solid var(--color-maroon);
+  box-sizing: border-box;
+}
+.add-to-shop {
+  position: absolute;
+  top: 13.63px;
+  left: 44.11px;
+  text-transform: capitalize;
+  font-weight: 900;
+  display: inline-block;
+  width: 143.37px;
+  height: 21.2px;
+}
+.addtocart {
+  position: absolute;
+  top: 533px;
+  left: -41px;
+  width: 224.7px;
+  height: 42.4px;
+  font-size: 11px;
+  color: #fff;
+}
+.deliver-yuicon {
+  position: absolute;
+  top: 424px;
+  left: -49px;
+  width: 33.08px;
+  height: 36.34px;
+}
+.description,
+.heart-icon {
+  position: absolute;
+  top: 536px;
+  left: 216px;
+  width: 37.22px;
+  height: 39.37px;
+}
+.description {
+  top: 234px;
+  left: 881px;
+  width: 354px;
+  height: 424px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.desktop-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  border: 2px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 131px;
+}
+.vecteezy-adidas-logo-png-adida-icon {
+  position: absolute;
+  top: 35px;
+  left: 103px;
+  width: 90px;
+  height: 61px;
+  object-fit: cover;
+}
+.mens {
+  position: absolute;
+  top: 65px;
+  left: 277px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 68px;
+  height: 21px;
+}
+.desktop-1-item {
+  position: absolute;
+  top: 85px;
+  left: 276px;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 57px;
+  height: 2px;
+}
+.best,
+.collection,
+.color-size,
+.womens {
+  position: absolute;
+  top: 65px;
+  left: 399px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 93px;
+  height: 21px;
+}
+.best,
+.collection,
+.color-size {
+  top: 193px;
+  left: 193px;
+  width: 241px;
+}
+.best,
+.collection {
+  top: 65px;
+  left: 547px;
+  width: 93px;
+}
+.collection {
+  left: 656px;
+  width: 128px;
+}
+.enhi1 {
+  margin: 0;
+}
+.enhi {
+  position: absolute;
+  top: 65px;
+  left: 1275px;
+  text-transform: uppercase;
+  display: inline-block;
+  text-align: right;
+  width: 62px;
+  height: 21px;
+}
+.pngtreemens-sports-red-footba {
+  position: absolute;
+  top: 214px;
+  left: 86px;
+  width: 737px;
+  height: 810px;
+  object-fit: cover;
+}
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  height: 0.2%;
+  width: 1.11%;
+  top: 19.73%;
+  right: 90.83%;
+  bottom: 80.08%;
+  left: 8.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1 {
+  height: 1.56%;
+  width: 0.63%;
+  top: 19.04%;
+  right: 91.81%;
+  bottom: 79.39%;
+  left: 7.57%;
+}
+.box-icon {
+  position: absolute;
+  top: 65px;
+  left: 1237px;
+  width: 24px;
+  height: 24px;
+}
+.desktop-1,
+.desktop-1-parent {
+  position: relative;
+  height: 1024px;
+}
+.desktop-1 {
+  background-color: #ececec;
+  width: 1440px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.desktop-1-parent {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-roboto);
+}
